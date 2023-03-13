@@ -1,0 +1,3 @@
+"Guid","SBQQ__Field__c","SBQQ__Formula__c","SBQQ__Order__c","SBQQ__Rule__c","SBQQ__SourceLookupField__c","SBQQ__TargetObject__c","SBQQ__ValueField__c","SBQQ__Value__c"
+1c49cf48-2a54-464d-903e-360bdb03bf4b,Discount (%),"#N/A","#N/A",fcf8ab49-8836-408a-ba09-d3d246716ba6,"#N/A",Product Option,"#N/A","#N/A"
+68ffb48d-bcfa-4808-af56-19a7a130345a,Unit Price,"#N/A","#N/A",fcf8ab49-8836-408a-ba09-d3d246716ba6,"#N/A",Product Option,"#N/A","#N/A"
